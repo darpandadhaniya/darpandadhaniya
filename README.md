@@ -6,7 +6,7 @@ I got here the long way: developer, QA, business analyst, customer support, then
 
 ## What I've worked on
 
-- These days I run Grow Products, my product-led growth consultancy for early-stage SaaS companies. Founded it in 2022, still going strong.
+- These days I run Grow Products, my product-led growth consultancy for early-stage SaaS companies. Founded it in 2022.
 - At FutureVault (fintech SaaS), I led the AI/ML product work: automated document classification and digitized workflows that cut enterprise onboarding time by 80%. The product grew from 1,000 to 60,000 users in two years.
 - At Telus, I ran experimentation across a $4B B2B eCommerce portfolio with 4M monthly visitors. Conversion rates doubled.
 - Earlier, at Stellar in Melbourne, I built the product team from 1 to 5 PMs and led payroll and HR platforms supporting 4,000+ employees across Australia and the Philippines.
