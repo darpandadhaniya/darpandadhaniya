@@ -13,9 +13,9 @@ I got here the long way: developer, QA, business analyst, customer support, then
 
 ## I'm open to work
 
-I'm looking for a Staff, Principal, or Lead Product Manager role at a Series A to D SaaS company. The kind of place where "we'll just ship it and see" has stopped working and somebody needs to install a system.
+I'm looking for a Senior, Principal, or Lead Product Manager role at a Series A to D SaaS company. The kind of place where "we'll just ship it and see" has stopped working and somebody needs to install a system.
 
-What you get: product-led growth strategy, experimentation frameworks, JTBD and behavioral UX research, and a roadmap process your team can run without me.
+What you get: product-led growth strategy, experimentation frameworks, JTBD and behavioural UX research, and a roadmap process your team can run without me.
 
 What I want: an ambiguous problem, smart people, and the room to act like a founder.
 
